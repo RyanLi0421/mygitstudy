@@ -22,3 +22,5 @@ made change in working dir
 add change2
 
 add change3
+
+add change4 before reset
