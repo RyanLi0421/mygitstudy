@@ -28,3 +28,6 @@ add change4 before reset
 commit change
 
 stage change
+
+siejowiejfoiwejf to revert 
+
